@@ -3,6 +3,6 @@
 
 git add .
 
-git commit -m 'Shell permission tasks'
+git commit -m 'Shell basics tasks'
 
 git push
